@@ -4,7 +4,7 @@
 [![Dependency status][dependency-image]][dependency-url]
 
 * Студент: [Алексеенко Игорь](https://htmlacademy.ru/profile/id175400).
-* Наставник: `Кекс`.
+* Наставник: `Инструктор Кекс`.
 
 ### Немного о себе
 
