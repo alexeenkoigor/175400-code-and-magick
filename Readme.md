@@ -1,4 +1,4 @@
-# Личный проект «Код и магия»
+# Личный проект «Кодымагия»
 
 [![Build status][travis-image]][travis-url]
 [![Dependency status][dependency-image]][dependency-url]
